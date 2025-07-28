@@ -12,7 +12,7 @@ Roll Number: 231B209
 
 Email: 231B209@juetguna.in
 
-college: Juet
+college: Juet, Guna
 
 
 
